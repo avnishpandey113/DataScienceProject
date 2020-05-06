@@ -1,2 +1,2 @@
 # DataScienceProject
-Movie quality prediction using naive bayes can be found in this repository
+Movie quality prediction using naive bayes
